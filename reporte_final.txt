@@ -1,0 +1,120 @@
+
+=== Verificación de IP ===
+Fecha y hora: 2024-10-27 18:32:59
+Datos:
+{
+    "data": {
+        "ipAddress": "189.224.189.5",
+        "isPublic": true,
+        "ipVersion": 4,
+        "isWhitelisted": null,
+        "abuseConfidenceScore": 0,
+        "countryCode": "MX",
+        "usageType": "Fixed Line ISP",
+        "isp": "Uninet",
+        "domain": "uninet.net.mx",
+        "hostnames": [
+            "dsl-189-224-189-5-dyn.prod-infinitum.com.mx"
+        ],
+        "isTor": false,
+        "totalReports": 0,
+        "numDistinctUsers": 0,
+        "lastReportedAt": null
+    }
+}
+
+=== Verificación de IP ===
+Fecha y hora: 2024-10-27 18:35:02
+Datos:
+{
+    "data": {
+        "ipAddress": "189.224.189.5",
+        "isPublic": true,
+        "ipVersion": 4,
+        "isWhitelisted": null,
+        "abuseConfidenceScore": 0,
+        "countryCode": "MX",
+        "usageType": "Fixed Line ISP",
+        "isp": "Uninet",
+        "domain": "uninet.net.mx",
+        "hostnames": [
+            "dsl-189-224-189-5-dyn.prod-infinitum.com.mx"
+        ],
+        "isTor": false,
+        "totalReports": 0,
+        "numDistinctUsers": 0,
+        "lastReportedAt": null
+    }
+}
+
+=== Verificación de IP ===
+Fecha y hora: 2024-10-27 18:35:12
+Datos:
+{
+    "data": {
+        "ipAddress": "189.224.189.5",
+        "isPublic": true,
+        "ipVersion": 4,
+        "isWhitelisted": null,
+        "abuseConfidenceScore": 0,
+        "countryCode": "MX",
+        "usageType": "Fixed Line ISP",
+        "isp": "Uninet",
+        "domain": "uninet.net.mx",
+        "hostnames": [
+            "dsl-189-224-189-5-dyn.prod-infinitum.com.mx"
+        ],
+        "isTor": false,
+        "totalReports": 0,
+        "numDistinctUsers": 0,
+        "lastReportedAt": null
+    }
+}
+
+=== Verificación de IP ===
+Fecha y hora: 2024-10-27 18:35:20
+Datos:
+{
+    "data": {
+        "ipAddress": "189.224.189.5",
+        "isPublic": true,
+        "ipVersion": 4,
+        "isWhitelisted": null,
+        "abuseConfidenceScore": 0,
+        "countryCode": "MX",
+        "usageType": "Fixed Line ISP",
+        "isp": "Uninet",
+        "domain": "uninet.net.mx",
+        "hostnames": [
+            "dsl-189-224-189-5-dyn.prod-infinitum.com.mx"
+        ],
+        "isTor": false,
+        "totalReports": 0,
+        "numDistinctUsers": 0,
+        "lastReportedAt": null
+    }
+}
+
+=== Verificación de IP ===
+Fecha y hora: 2024-10-27 18:38:04
+Datos:
+{
+    "data": {
+        "ipAddress": "189.224.189.5",
+        "isPublic": true,
+        "ipVersion": 4,
+        "isWhitelisted": null,
+        "abuseConfidenceScore": 0,
+        "countryCode": "MX",
+        "usageType": "Fixed Line ISP",
+        "isp": "Uninet",
+        "domain": "uninet.net.mx",
+        "hostnames": [
+            "dsl-189-224-189-5-dyn.prod-infinitum.com.mx"
+        ],
+        "isTor": false,
+        "totalReports": 0,
+        "numDistinctUsers": 0,
+        "lastReportedAt": null
+    }
+}
